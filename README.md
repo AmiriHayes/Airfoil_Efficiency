@@ -10,3 +10,5 @@ of lift and drag (those obtained by manipulating simulation obtained values).
 Employs information about the aircraft and airfoil is used for to determine fuel efficiency. This is accomplished through the use of 
 kinematic equations using forces such as thrust, drag, lift and weight. This information is then combined with the fuel usage of the aircraft  
 and velocity of the aircraft to compare the distance travelled per gallon for two airfoils with different coeeficients of lift and drag.
+
+This code was developed by Amanda Butler, Mattia Butera, Amiri Hayes, Evan Schaffer, Niti Sinha and Jay Kapasiawala. 
